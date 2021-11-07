@@ -4,6 +4,7 @@ May 27 2020
 20:09:33
 D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
 D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sim_1/new/test.v,1636309268,verilog,,,,test,,,,,,,,
+D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/SlowClock.v,1636318482,verilog,,D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/counter.v,,slowClock,,,,,,,,
 D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/counter.v,1636311433,verilog,,D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/fsm.v,,Counter,,,,,,,,
 D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/fsm.v,1636312873,verilog,,D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/top_module.v,,FSM,,,,,,,,
-D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/top_module.v,1636313425,verilog,,D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sim_1/new/test.v,,top,,,,,,,,
+D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sources_1/new/top_module.v,1636317968,verilog,,D:/Downloads/code/yeckle/Lab-6-DSD-ManuelSandoz/Lab-6-DSD-ManuelSandoz.srcs/sim_1/new/test.v,,top,,,,,,,,
