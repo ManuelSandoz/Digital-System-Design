@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Exam-1-Manuel_Sandoz.srcs/sources_1/new/Top_1.v" \
+"../../../../Exam-1-Manuel_Sandoz.srcs/sources_1/new/mux.v" \
+"../../../../Exam-1-Manuel_Sandoz.srcs/sources_1/new/registro.v" \
+"../../../../Exam-1-Manuel_Sandoz.srcs/sources_1/new/restador.v" \
+"../../../../Exam-1-Manuel_Sandoz.srcs/sources_1/new/sumador.v" \
+"../../../../Exam-1-Manuel_Sandoz.srcs/sim_1/new/Test_1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

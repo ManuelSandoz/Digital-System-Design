@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab-3 Implementation on Basys Board.srcs/sources_1/new/Full-Adder.v" \
+"../../../../Lab-3 Implementation on Basys Board.srcs/sources_1/new/Half-Adder.v" \
+"../../../../Lab-3 Implementation on Basys Board.srcs/sources_1/new/sumador.v" \
+"../../../../Lab-3 Implementation on Basys Board.srcs/sim_1/new/top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

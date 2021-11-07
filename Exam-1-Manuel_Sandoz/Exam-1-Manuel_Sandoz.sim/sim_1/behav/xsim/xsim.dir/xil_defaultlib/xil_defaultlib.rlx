@@ -1,0 +1,15 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sim_1/new/Test_1.v,1635208095,verilog,,,,Test_1,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sim_1/new/Test_2.v,1635212713,verilog,,,,Test_2,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/Top_1.v,1635206799,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/mux.v,,Top_1,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/Top_2.v,1635212176,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/comparador.v,,Top_2,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/comparador.v,1635209794,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/contador.v,,comparador,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/contador.v,1635214112,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sim_1/new/Test_2.v,,contador,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/mux.v,1635206846,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/registro.v,,mux2t1,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/registro.v,1635205442,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/restador.v,,register,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/restador.v,1635205953,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/sumador.v,,substractor,,,,,,,,
+D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/sumador.v,1635205972,verilog,,D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sim_1/new/Test_1.v,,adder,,,,,,,,

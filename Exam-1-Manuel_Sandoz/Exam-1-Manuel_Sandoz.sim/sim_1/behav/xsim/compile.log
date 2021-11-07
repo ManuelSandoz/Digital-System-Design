@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/Top_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/comparador.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparador
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'out' is not allowed [D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/comparador.v:8]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/contador.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module contador
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'out' is not allowed [D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sources_1/new/contador.v:8]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Downloads/code/yeckle/Exam-1-Manuel_Sandoz/Exam-1-Manuel_Sandoz.srcs/sim_1/new/Test_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test_2

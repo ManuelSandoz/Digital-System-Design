@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab 5 DSD Manuel Sandoz.srcs/sources_1/new/DFlipFLop.v" \
+"../../../../Lab 5 DSD Manuel Sandoz.srcs/sources_1/new/ej1Top.v" \
+"../../../../Lab 5 DSD Manuel Sandoz.srcs/sim_1/new/Register_4bTest.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

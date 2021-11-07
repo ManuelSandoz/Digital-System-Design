@@ -1,0 +1,15 @@
+`timescale 1ns/1ps
+
+module cir_1a(A,B,C,D,x);
+
+  input A, B, C, D;
+  output x;
+  wire w1,w2,w3;
+  
+  nand(w1, A,B);
+  nand(w2, w1,C);
+  nand(w3, D,C);
+  
+  nor(x, w3,w2);
+
+endmodule

@@ -1,0 +1,12 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sim_1/new/4bitAdder_test.v,1632689402,verilog,,,,suma_4_test,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sim_1/new/top.v,1632683934,verilog,,,,sumador_test,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/1-bit-full-add.v,1632687360,verilog,,D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/4bitAdder.v,,obfa,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/4bitAdder.v,1632688111,verilog,,D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sim_1/new/4bitAdder_test.v,,suma_4,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/Full-Adder.v,1632682726,verilog,,D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/Half-Adder.v,,H1,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/Half-Adder.v,1632682244,verilog,,D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/sumador.v,,H2,,,,,,,,
+D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sources_1/new/sumador.v,1632682662,verilog,,D:/Downloads/code/yeckle/Lab-3 Implementation on Basys Board/Lab-3 Implementation on Basys Board.srcs/sim_1/new/top.v,,sumador,,,,,,,,

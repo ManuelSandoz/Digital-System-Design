@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 17 14:58:03 2021
+# Process ID: 6076
+# Current directory: D:/Downloads/code/yeckle/Lab 5 DSD Manuel Sandoz/Lab 5 DSD Manuel Sandoz.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Downloads/code/yeckle/Lab 5 DSD Manuel Sandoz/Lab 5 DSD Manuel Sandoz.sim/sim_1/behav/xsim/xsim.dir/Register_4b_Top_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Downloads/code/yeckle/Lab 5 DSD Manuel Sandoz/Lab 5 DSD Manuel Sandoz.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Downloads/code/yeckle/Lab 5 DSD Manuel Sandoz/Lab 5 DSD Manuel Sandoz.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Downloads/code/yeckle/Lab -notrace
